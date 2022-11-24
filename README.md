@@ -17,7 +17,7 @@ This is my portfolio and first repository
   <meta charset="utf-8">
   </head>
   <body>
-   <script src="script.js"></script>
+   
   </body>
   </html>
 
