@@ -17,6 +17,7 @@ This is my portfolio and first repository
 
 ![car](https://user-images.githubusercontent.com/118063388/203669182-d7659fd6-89d6-4ecf-8e81-d09fff8258ff.jpg)
  
+<script>
 <!DOCTYPE html>
 <html lang="en">
   </head>
@@ -26,3 +27,4 @@ This is my portfolio and first repository
    <script src="script.js"></script>
   </body>
   </html>
+</script>
