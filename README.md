@@ -5,7 +5,9 @@
   <meta charset="utf-8">
   </head>
   <body>
-  
+   <script src="script.js"></script>
+  </body>
+  </html>
 
 This is my portfolio and first repository
 <h1 align="center">Hi 👋, I'm Dustin Wulfkuhle.</h1>
@@ -22,6 +24,4 @@ This is my portfolio and first repository
 ![IMG_4612](https://user-images.githubusercontent.com/118063388/202917545-0d4ec46d-6d6e-40d9-ae36-54350e03d1c8.jpg)
 
 ![car](https://user-images.githubusercontent.com/118063388/203669182-d7659fd6-89d6-4ecf-8e81-d09fff8258ff.jpg)
-  <script src="script.js"></script>
-  </body>
-  </html>
+ 
