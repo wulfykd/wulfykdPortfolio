@@ -1,4 +1,15 @@
 # wulfykdPortfolio
+<!DOCTYPE html>
+<html lang="en">
+  </head>
+  <meta charset="utf-8">
+  </head>
+  <body>
+  ...contents of page...
+  <script src="script.js"></script>
+  </body>
+  </html>
+
 This is my portfolio and first repository
 <h1 align="center">Hi 👋, I'm Dustin Wulfkuhle.</h1>
 <h3 align="center">A passionate Computer Science major from Kansas.</h3>
